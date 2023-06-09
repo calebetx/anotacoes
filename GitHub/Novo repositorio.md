@@ -1,4 +1,4 @@
-INICIANDO REPOSITÓRIO PARA O GITHUB
+INICIANDO REPOSITÓRIO PARA O GITHUB A
 
 [1] Criar o repositório no git e copiar o link 'Clone' da aba 'HTTPS'
 Exemplo: https://github.com/calebetx/beecrowd.git
